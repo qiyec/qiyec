@@ -2,8 +2,12 @@
 
 𝑰 ❤️ 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆!
 
-💻 一名在 AI 浪潮中进化的 Java 工程师，现专注于 AI 全栈开发。
+From Java Engineer to AI Developer.
 
-🤖 AI 实践者 | 🧱 Java 后端老兵 | 🛠️ Agent 构建师 | ☕ 用代码驱动 AI 落地
+Building AI-powered applications and exploring the intersection of LLMs, Agents, RAG, MCP, and modern software engineering.
 
-💡 深耕 Java 工程化，热衷折腾 LLM 与 Agent 应用。与其在变革中焦虑，不如在代码中破局。
+Turning ideas into products. Turning technology into real-world solutions.
+
+Staying curious in a world that never stops changing.
+
+**Build. Learn. Share. Repeat.**
