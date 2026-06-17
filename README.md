@@ -69,41 +69,6 @@ LangChain · LangGraph · OpenAI SDK · MCP
 
 ---
 
-## 📚 Featured Projects
-
-### 🤖 AI Projects
-
-* AI Agent Applications
-* MCP Servers
-* RAG Systems
-* AI Workflow Automation
-
-### ☕ Java Projects
-
-* Spring Boot
-* Distributed Systems
-* Backend Engineering
-
----
-
-## 📝 Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-
-* Coming Soon...
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=qiyec&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiyec&layout=compact&hide_border=true" />
-
 </div>
 
 ---
