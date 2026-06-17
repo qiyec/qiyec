@@ -1,13 +1,124 @@
-## 👋 Hi, I'm Qiye
+<div align="center">
+  
+# 👋 Hi, I'm Qiye
+  
+## I ❤️ Artificial Intelligence
 
-𝑰 ❤️ 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆!
+From Java Engineer to AI Developer
 
-From Java Engineer to AI Developer.
+Focused on AI Full-Stack Development and Intelligent Applications
 
-Building AI-powered applications and exploring the intersection of LLMs, Agents, RAG, MCP, and modern software engineering.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=AI+Full-Stack+Developer;Agent+Builder;Java+Backend+Engineer;Building+Products+with+AI" />
 
-Turning ideas into products. Turning technology into real-world solutions.
+</div>
 
-Staying curious in a world that never stops changing.
+---
 
-**Build. Learn. Share. Repeat.**
+## 👨‍💻 About Me
+
+* 💻 Former Java Backend Engineer
+* 🤖 AI Full-Stack Developer
+* 🛠️ Agent Builder
+* ✍️ Technical Blogger
+* 🌱 Lifelong Learner
+
+I focus on building practical AI applications and exploring the real-world adoption of:
+
+* LLM
+* Agent
+* RAG
+* MCP
+* AI Workflow
+
+I enjoy turning ideas into products and technology into solutions.
+
+> Stay curious. Keep building.
+
+---
+
+## 🚀 Current Focus
+
+```text
+AI Application Development
+├── LLM
+├── Agent
+├── MCP
+├── RAG
+└── Workflow Automation
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Java](https://skillicons.dev/icons?i=java,spring,mysql,redis,maven)
+
+Spring Boot · Spring Cloud · Spring Cloud Alibaba · Spring AI · Spring AI Alibaba
+
+### AI
+
+![Python](https://skillicons.dev/icons?i=python,fastapi)
+
+LangChain · LangGraph · OpenAI SDK · MCP
+
+### DevOps
+
+![Docker](https://skillicons.dev/icons?i=docker,linux,kubernetes,nginx,git)
+
+---
+
+## 📚 Featured Projects
+
+### 🤖 AI Projects
+
+* AI Agent Applications
+* MCP Servers
+* RAG Systems
+* AI Workflow Automation
+
+### ☕ Java Projects
+
+* Spring Boot
+* Distributed Systems
+* Backend Engineering
+
+---
+
+## 📝 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+
+* Coming Soon...
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=qiyec&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiyec&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+* Blog: https://你的博客地址
+* GitHub: https://github.com/qiyec
+
+---
+
+<div align="center">
+
+### Build. Learn. Share. Repeat.
+
+In a fast-changing world, stay curious and keep building.
+
+</div>
