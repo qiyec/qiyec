@@ -75,7 +75,7 @@ LangChain · LangGraph · OpenAI SDK · MCP
 
 ## 🌐 Connect With Me
 
-* Blog: https://你的博客地址
+* Blog: https://qiyec.site
 * GitHub: https://github.com/qiyec
 
 ---
